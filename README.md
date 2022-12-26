@@ -1,0 +1,4 @@
+- 👋 Hello
+- This repository will be dedicated to various exercises and tasks provided by the University of Karel de Grote.
+- These are provided under the context of learning and education and as such can be utilized as such by others.
+- If this repository becomes public, the information retained can/will be considered unmaintenanced as it will serve as a benchmark at the time of creation.
